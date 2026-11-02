@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "LiKgDg/android_device_xiaomi_pandora-kernel",
+    "target_path": "device/xiaomi/pandora-kernel",
+    "branch": "lineage-24.0"
+  }
+]

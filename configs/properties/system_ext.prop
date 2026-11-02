@@ -1,0 +1,22 @@
+# Audio
+ro.audio.ihaladaptervendorextension_enabled=true
+
+# Bluetooth
+bluetooth.core.le.max_number_of_concurrent_connections=10
+bluetooth.leaudio.dual_bidirection_swb.supported=true
+persist.bluetooth.leaudio.notify.idle.during.call=true
+ro.bluetooth.leaudio_offload.supported=true
+
+# DPM
+persist.vendor.dpm.feature=11
+
+# IMS
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.dbg.wfc_avail_ovr=1
+
+# Radio
+ril.subscription.types=NV,RUIM
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+telephony.lteOnCdmaDevice=1
